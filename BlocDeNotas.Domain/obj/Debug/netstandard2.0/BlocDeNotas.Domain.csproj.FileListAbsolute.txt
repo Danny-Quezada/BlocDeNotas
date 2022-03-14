@@ -1,0 +1,10 @@
+C:\Users\Quezada\Desktop\Tarea\BlocDeNotas\BlocDeNotas.Domain\obj\Debug\netstandard2.0\BlocDeNotas.Domain.csproj.AssemblyReference.cache
+C:\Users\Quezada\Desktop\Tarea\BlocDeNotas\BlocDeNotas.Domain\obj\Debug\netstandard2.0\BlocDeNotas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quezada\Desktop\Tarea\BlocDeNotas\BlocDeNotas.Domain\obj\Debug\netstandard2.0\BlocDeNotas.Domain.AssemblyInfoInputs.cache
+C:\Users\Quezada\Desktop\Tarea\BlocDeNotas\BlocDeNotas.Domain\obj\Debug\netstandard2.0\BlocDeNotas.Domain.AssemblyInfo.cs
+C:\Users\Quezada\Desktop\Tarea\BlocDeNotas\BlocDeNotas.Domain\obj\Debug\netstandard2.0\BlocDeNotas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Quezada\Desktop\Tarea\BlocDeNotas\BlocDeNotas.Domain\bin\Debug\netstandard2.0\BlocDeNotas.Domain.deps.json
+C:\Users\Quezada\Desktop\Tarea\BlocDeNotas\BlocDeNotas.Domain\bin\Debug\netstandard2.0\BlocDeNotas.Domain.dll
+C:\Users\Quezada\Desktop\Tarea\BlocDeNotas\BlocDeNotas.Domain\bin\Debug\netstandard2.0\BlocDeNotas.Domain.pdb
+C:\Users\Quezada\Desktop\Tarea\BlocDeNotas\BlocDeNotas.Domain\obj\Debug\netstandard2.0\BlocDeNotas.Domain.dll
+C:\Users\Quezada\Desktop\Tarea\BlocDeNotas\BlocDeNotas.Domain\obj\Debug\netstandard2.0\BlocDeNotas.Domain.pdb

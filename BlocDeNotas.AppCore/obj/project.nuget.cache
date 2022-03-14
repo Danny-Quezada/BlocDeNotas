@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1ikU5a2987qcJ9K2i3OIn+HnR1RHdTbfBanZu5+maS3MDrg6Eif88NtDm5ipnPx4Hgp2UYOS+Y5R3k2cXpW+Dg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Quezada\\Desktop\\Tarea\\BlocDeNotas\\BlocDeNotas.AppCore\\BlocDeNotas.AppCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Quezada\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Quezada\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

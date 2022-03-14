@@ -1,24 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JADPA12\\source\\repos\\BlocDeNotas\\BlocDeNotas.Infraestructure\\BlocDeNotas.Infraestructure.csproj": {}
+    "C:\\Users\\Quezada\\Desktop\\Tarea\\BlocDeNotas\\BlocDeNotas.Infraestructure\\BlocDeNotas.Infraestructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JADPA12\\source\\repos\\BlocDeNotas\\BlocDeNotas.Infraestructure\\BlocDeNotas.Infraestructure.csproj": {
+    "C:\\Users\\Quezada\\Desktop\\Tarea\\BlocDeNotas\\BlocDeNotas.Domain\\BlocDeNotas.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JADPA12\\source\\repos\\BlocDeNotas\\BlocDeNotas.Infraestructure\\BlocDeNotas.Infraestructure.csproj",
-        "projectName": "BlocDeNotas.Infraestructure",
-        "projectPath": "C:\\Users\\JADPA12\\source\\repos\\BlocDeNotas\\BlocDeNotas.Infraestructure\\BlocDeNotas.Infraestructure.csproj",
-        "packagesPath": "C:\\Users\\JADPA12\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JADPA12\\source\\repos\\BlocDeNotas\\BlocDeNotas.Infraestructure\\obj\\",
+        "projectUniqueName": "C:\\Users\\Quezada\\Desktop\\Tarea\\BlocDeNotas\\BlocDeNotas.Domain\\BlocDeNotas.Domain.csproj",
+        "projectName": "BlocDeNotas.Domain",
+        "projectPath": "C:\\Users\\Quezada\\Desktop\\Tarea\\BlocDeNotas\\BlocDeNotas.Domain\\BlocDeNotas.Domain.csproj",
+        "packagesPath": "C:\\Users\\Quezada\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Quezada\\Desktop\\Tarea\\BlocDeNotas\\BlocDeNotas.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\JADPA12\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Quezada\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -29,6 +32,7 @@
         },
         "frameworks": {
           "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
             "projectReferences": {}
           }
         },
@@ -40,6 +44,7 @@
       },
       "frameworks": {
         "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
           "dependencies": {
             "NETStandard.Library": {
               "suppressParent": "All",
@@ -49,10 +54,83 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Quezada\\Desktop\\Tarea\\BlocDeNotas\\BlocDeNotas.Infraestructure\\BlocDeNotas.Infraestructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Quezada\\Desktop\\Tarea\\BlocDeNotas\\BlocDeNotas.Infraestructure\\BlocDeNotas.Infraestructure.csproj",
+        "projectName": "BlocDeNotas.Infraestructure",
+        "projectPath": "C:\\Users\\Quezada\\Desktop\\Tarea\\BlocDeNotas\\BlocDeNotas.Infraestructure\\BlocDeNotas.Infraestructure.csproj",
+        "packagesPath": "C:\\Users\\Quezada\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Quezada\\Desktop\\Tarea\\BlocDeNotas\\BlocDeNotas.Infraestructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Quezada\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "C:\\Users\\Quezada\\Desktop\\Tarea\\BlocDeNotas\\BlocDeNotas.Domain\\BlocDeNotas.Domain.csproj": {
+                "projectPath": "C:\\Users\\Quezada\\Desktop\\Tarea\\BlocDeNotas\\BlocDeNotas.Domain\\BlocDeNotas.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

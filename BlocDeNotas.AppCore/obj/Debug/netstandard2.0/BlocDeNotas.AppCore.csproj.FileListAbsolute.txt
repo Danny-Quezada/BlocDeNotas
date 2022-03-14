@@ -1,0 +1,13 @@
+C:\Users\Quezada\Desktop\Tarea\BlocDeNotas\BlocDeNotas.AppCore\bin\Debug\netstandard2.0\BlocDeNotas.AppCore.deps.json
+C:\Users\Quezada\Desktop\Tarea\BlocDeNotas\BlocDeNotas.AppCore\bin\Debug\netstandard2.0\BlocDeNotas.AppCore.dll
+C:\Users\Quezada\Desktop\Tarea\BlocDeNotas\BlocDeNotas.AppCore\bin\Debug\netstandard2.0\BlocDeNotas.AppCore.pdb
+C:\Users\Quezada\Desktop\Tarea\BlocDeNotas\BlocDeNotas.AppCore\obj\Debug\netstandard2.0\BlocDeNotas.AppCore.csproj.AssemblyReference.cache
+C:\Users\Quezada\Desktop\Tarea\BlocDeNotas\BlocDeNotas.AppCore\obj\Debug\netstandard2.0\BlocDeNotas.AppCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quezada\Desktop\Tarea\BlocDeNotas\BlocDeNotas.AppCore\obj\Debug\netstandard2.0\BlocDeNotas.AppCore.AssemblyInfoInputs.cache
+C:\Users\Quezada\Desktop\Tarea\BlocDeNotas\BlocDeNotas.AppCore\obj\Debug\netstandard2.0\BlocDeNotas.AppCore.AssemblyInfo.cs
+C:\Users\Quezada\Desktop\Tarea\BlocDeNotas\BlocDeNotas.AppCore\obj\Debug\netstandard2.0\BlocDeNotas.AppCore.csproj.CoreCompileInputs.cache
+C:\Users\Quezada\Desktop\Tarea\BlocDeNotas\BlocDeNotas.AppCore\obj\Debug\netstandard2.0\BlocDeNotas.AppCore.dll
+C:\Users\Quezada\Desktop\Tarea\BlocDeNotas\BlocDeNotas.AppCore\obj\Debug\netstandard2.0\BlocDeNotas.AppCore.pdb
+C:\Users\Quezada\Desktop\Tarea\BlocDeNotas\BlocDeNotas.AppCore\bin\Debug\netstandard2.0\BlocDeNotas.Domain.dll
+C:\Users\Quezada\Desktop\Tarea\BlocDeNotas\BlocDeNotas.AppCore\bin\Debug\netstandard2.0\BlocDeNotas.Domain.pdb
+C:\Users\Quezada\Desktop\Tarea\BlocDeNotas\BlocDeNotas.AppCore\obj\Debug\netstandard2.0\BlocDeNotas.AppCore.csproj.CopyComplete
