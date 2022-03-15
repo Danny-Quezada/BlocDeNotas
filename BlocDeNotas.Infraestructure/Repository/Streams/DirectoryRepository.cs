@@ -9,7 +9,7 @@ namespace BlocDeNotas.Infraestructure.Repository.Streams
     public class DirectoryRepository : IDirectoryRepository
     {
         private BinaryReader streamReader;
-        private BinaryWriter streamWriter;
+        private StreamWriter streamWriter;
 
         public bool CheckRoute(string path)
         {
@@ -49,9 +49,9 @@ namespace BlocDeNotas.Infraestructure.Repository.Streams
 
         public void OverWrite(string path, string text)
         {
-            using (FileStream file = new FileStream(path, FileMode.Append, FileAccess.Write))
+            using (FileStream file = new FileStream(path, FileMode.Truncate, FileAccess.Write))
             {
-                streamWriter = new BinaryWriter(file);
+                streamWriter = new StreamWriter(file);
                 streamWriter.Write(text);
                 streamWriter.Close();
                 file.Close();
@@ -67,13 +67,7 @@ namespace BlocDeNotas.Infraestructure.Repository.Streams
                 
                 streamReader = new BinaryReader(file);
                 long length = streamReader.BaseStream.Length / sizeof(int);
-                streamReader.BaseStream.Seek(0, SeekOrigin.Begin);
                 words = File.ReadAllText(path);
-                //while (streamReader.BaseStream.Position < length)
-                //{
-                //    words += streamReader.ReadString();
-                //}
-
                 streamReader.Close();
                 file.Close();
             }

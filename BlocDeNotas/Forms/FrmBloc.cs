@@ -114,16 +114,19 @@ namespace BlocDeNotas.Forms
         private TreeNode AddDirectoryNodes(DirectoryInfo info)
         {
             TreeNode root = new TreeNode("🖿  " + info.Name);
+            
             String path = info.FullName;
             root.Tag = path;
             foreach (var items in info.GetFiles())
             {
+                
                 TreeNode file = new TreeNode("📎  " + items.Name);
                 file.Tag = items.FullName;
                 root.Nodes.Add(file);
             }
             foreach (var items in info.GetDirectories())
             {
+                
                 root.Nodes.Add(AddDirectoryNodes(items));
             }
 
@@ -251,6 +254,9 @@ namespace BlocDeNotas.Forms
                
         }
 
-
+        private void guna2ImageButton1_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
